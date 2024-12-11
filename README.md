@@ -24,3 +24,9 @@ Add a `.env.local` file in the root directory with the following variable:
 ```plaintext
 NEXT_PUBLIC_API_BASE_URL=https://vpic.nhtsa.dot.gov/api
 ```
+## To start project
+
+```plaintext
+npm install
+npm run dev
+```
